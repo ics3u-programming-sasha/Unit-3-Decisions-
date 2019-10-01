@@ -8,3 +8,13 @@ N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 3 (Decisions)\G
 N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 3 (Decisions)\GuessNumberSasha\GuessNumberSasha\obj\Debug\GuessNumberSasha.csproj.CoreCompileInputs.cache
 N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 3 (Decisions)\GuessNumberSasha\GuessNumberSasha\obj\Debug\GuessNumberSasha.exe
 N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 3 (Decisions)\GuessNumberSasha\GuessNumberSasha\obj\Debug\GuessNumberSasha.pdb
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\GuessNumberSasha\GuessNumberSasha\bin\Debug\GuessNumberSasha.exe.config
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\GuessNumberSasha\GuessNumberSasha\bin\Debug\GuessNumberSasha.exe
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\GuessNumberSasha\GuessNumberSasha\bin\Debug\GuessNumberSasha.pdb
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\GuessNumberSasha\GuessNumberSasha\obj\Debug\GuessNumberSasha.csprojAssemblyReference.cache
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\GuessNumberSasha\GuessNumberSasha\obj\Debug\GuessNumberSasha.frmGuessNumber.resources
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\GuessNumberSasha\GuessNumberSasha\obj\Debug\GuessNumberSasha.Properties.Resources.resources
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\GuessNumberSasha\GuessNumberSasha\obj\Debug\GuessNumberSasha.csproj.GenerateResource.cache
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\GuessNumberSasha\GuessNumberSasha\obj\Debug\GuessNumberSasha.csproj.CoreCompileInputs.cache
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\GuessNumberSasha\GuessNumberSasha\obj\Debug\GuessNumberSasha.exe
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\GuessNumberSasha\GuessNumberSasha\obj\Debug\GuessNumberSasha.pdb

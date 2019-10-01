@@ -67,10 +67,10 @@
             // lblAnswer
             // 
             this.lblAnswer.AutoSize = true;
-            this.lblAnswer.Font = new System.Drawing.Font("RomanC", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblAnswer.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblAnswer.Location = new System.Drawing.Point(62, 333);
             this.lblAnswer.Name = "lblAnswer";
-            this.lblAnswer.Size = new System.Drawing.Size(55, 30);
+            this.lblAnswer.Size = new System.Drawing.Size(51, 25);
             this.lblAnswer.TabIndex = 3;
             this.lblAnswer.Text = "???";
             // 
