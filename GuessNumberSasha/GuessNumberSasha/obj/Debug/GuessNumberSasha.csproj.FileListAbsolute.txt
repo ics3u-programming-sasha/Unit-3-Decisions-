@@ -1,0 +1,10 @@
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 3 (Decisions)\GuessNumberSasha\GuessNumberSasha\bin\Debug\GuessNumberSasha.exe.config
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 3 (Decisions)\GuessNumberSasha\GuessNumberSasha\bin\Debug\GuessNumberSasha.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 3 (Decisions)\GuessNumberSasha\GuessNumberSasha\bin\Debug\GuessNumberSasha.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 3 (Decisions)\GuessNumberSasha\GuessNumberSasha\obj\Debug\GuessNumberSasha.csprojAssemblyReference.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 3 (Decisions)\GuessNumberSasha\GuessNumberSasha\obj\Debug\GuessNumberSasha.frmGuessNumber.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 3 (Decisions)\GuessNumberSasha\GuessNumberSasha\obj\Debug\GuessNumberSasha.Properties.Resources.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 3 (Decisions)\GuessNumberSasha\GuessNumberSasha\obj\Debug\GuessNumberSasha.csproj.GenerateResource.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 3 (Decisions)\GuessNumberSasha\GuessNumberSasha\obj\Debug\GuessNumberSasha.csproj.CoreCompileInputs.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 3 (Decisions)\GuessNumberSasha\GuessNumberSasha\obj\Debug\GuessNumberSasha.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 3 (Decisions)\GuessNumberSasha\GuessNumberSasha\obj\Debug\GuessNumberSasha.pdb
