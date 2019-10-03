@@ -7,12 +7,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using System.Media;
 
 namespace GuessNumberSasha
 {
     public partial class frmGuessNumber : Form
     {
+
         public frmGuessNumber()
         {
             InitializeComponent();
@@ -22,12 +22,15 @@ namespace GuessNumberSasha
 
         private void BtnCheck_Click(object sender, EventArgs e)
         {
-            double guess, random;
+            const int MIN_NUM = 1;
+            const int MAX_NUM = 10;
+
+            int guess, random;
 
             Random rnd = new Random();
-            random = rnd.Next(1, 10);
+            random = rnd.Next(MIN_NUM, MAX_NUM);
 
-            guess = double.Parse(txtGuess.Text);
+            guess = int.Parse(txtGuess.Text);
 
             if (guess == random)
             {
@@ -43,7 +46,6 @@ namespace GuessNumberSasha
                 picAnswer.Image = Properties.Resources.red_x;
                 this.picAnswer.Show();
             }
-
         }
     }
 }

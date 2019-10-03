@@ -18,3 +18,8 @@ C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\GuessNumberSasha\GuessNumberSasha\o
 C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\GuessNumberSasha\GuessNumberSasha\obj\Debug\GuessNumberSasha.csproj.CoreCompileInputs.cache
 C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\GuessNumberSasha\GuessNumberSasha\obj\Debug\GuessNumberSasha.exe
 C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\GuessNumberSasha\GuessNumberSasha\obj\Debug\GuessNumberSasha.pdb
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\GuessNumberSasha\GuessNumberSasha\bin\Debug\Interop.WMPLib.dll
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\GuessNumberSasha\GuessNumberSasha\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\GuessNumberSasha\GuessNumberSasha\obj\Debug\Interop.WMPLib.dll
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\GuessNumberSasha\GuessNumberSasha\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\GuessNumberSasha\GuessNumberSasha\obj\Debug\GuessNumberSasha.csproj.ResolveComReference.cache
