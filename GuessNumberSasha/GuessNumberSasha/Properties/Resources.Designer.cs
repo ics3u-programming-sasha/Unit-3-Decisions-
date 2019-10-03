@@ -71,12 +71,32 @@ namespace GuessNumberSasha.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        internal static byte[] Correct_Answer_Sound_Effect {
+            get {
+                object obj = ResourceManager.GetObject("Correct_Answer_Sound_Effect", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         internal static System.Drawing.Bitmap red_x {
             get {
                 object obj = ResourceManager.GetObject("red_x", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        internal static byte[] Wrong_Buzzer_Sound_Effect {
+            get {
+                object obj = ResourceManager.GetObject("Wrong_Buzzer_Sound_Effect", resourceCulture);
+                return ((byte[])(obj));
             }
         }
     }
