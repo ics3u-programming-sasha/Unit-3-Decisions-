@@ -1,0 +1,10 @@
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\RockPaperScissorsSasha\RockPaperScissorsSasha\bin\Debug\RockPaperScissorsSasha.exe.config
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\RockPaperScissorsSasha\RockPaperScissorsSasha\bin\Debug\RockPaperScissorsSasha.exe
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\RockPaperScissorsSasha\RockPaperScissorsSasha\bin\Debug\RockPaperScissorsSasha.pdb
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\RockPaperScissorsSasha\RockPaperScissorsSasha\obj\Debug\RockPaperScissorsSasha.csprojAssemblyReference.cache
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\RockPaperScissorsSasha\RockPaperScissorsSasha\obj\Debug\RockPaperScissorsSasha.frmRockPaperScissors.resources
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\RockPaperScissorsSasha\RockPaperScissorsSasha\obj\Debug\RockPaperScissorsSasha.Properties.Resources.resources
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\RockPaperScissorsSasha\RockPaperScissorsSasha\obj\Debug\RockPaperScissorsSasha.csproj.GenerateResource.cache
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\RockPaperScissorsSasha\RockPaperScissorsSasha\obj\Debug\RockPaperScissorsSasha.csproj.CoreCompileInputs.cache
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\RockPaperScissorsSasha\RockPaperScissorsSasha\obj\Debug\RockPaperScissorsSasha.exe
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\RockPaperScissorsSasha\RockPaperScissorsSasha\obj\Debug\RockPaperScissorsSasha.pdb
