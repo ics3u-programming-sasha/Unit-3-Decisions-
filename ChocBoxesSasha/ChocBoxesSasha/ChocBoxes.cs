@@ -16,7 +16,7 @@ namespace ChocBoxesSasha
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new ChocBoxesForm());
+            Application.Run(new frmChocBoxes());
         }
     }
 }
