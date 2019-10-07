@@ -1,6 +1,6 @@
 ﻿namespace ChocBoxesSasha
 {
-    partial class Form1
+    partial class ChocBoxesForm
     {
         /// <summary>
         /// Required designer variable.
