@@ -1,0 +1,10 @@
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\FactDoWhileSasha\FactDoWhileSasha\bin\Debug\FactDoWhileSasha.exe.config
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\FactDoWhileSasha\FactDoWhileSasha\bin\Debug\FactDoWhileSasha.exe
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\FactDoWhileSasha\FactDoWhileSasha\bin\Debug\FactDoWhileSasha.pdb
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\FactDoWhileSasha\FactDoWhileSasha\obj\Debug\FactDoWhileSasha.csprojAssemblyReference.cache
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\FactDoWhileSasha\FactDoWhileSasha\obj\Debug\FactDoWhileSasha.frmFactDoWhile.resources
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\FactDoWhileSasha\FactDoWhileSasha\obj\Debug\FactDoWhileSasha.Properties.Resources.resources
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\FactDoWhileSasha\FactDoWhileSasha\obj\Debug\FactDoWhileSasha.csproj.GenerateResource.cache
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\FactDoWhileSasha\FactDoWhileSasha\obj\Debug\FactDoWhileSasha.csproj.CoreCompileInputs.cache
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\FactDoWhileSasha\FactDoWhileSasha\obj\Debug\FactDoWhileSasha.exe
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\FactDoWhileSasha\FactDoWhileSasha\obj\Debug\FactDoWhileSasha.pdb
