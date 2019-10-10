@@ -16,7 +16,7 @@ namespace PerSquaresSasha
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new PerSquaresForm());
+            Application.Run(new frmPerSquares());
         }
     }
 }
