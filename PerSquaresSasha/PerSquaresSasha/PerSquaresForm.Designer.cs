@@ -70,7 +70,7 @@
             this.Controls.Add(this.lstAnswer);
             this.Controls.Add(this.btnStart);
             this.Name = "frmPerSquares";
-            this.Text = "Perfect Squares with While Loop";
+            this.Text = "Perfect Squares with While Loop by Sasha";
             ((System.ComponentModel.ISupportInitialize)(this.nudValue)).EndInit();
             this.ResumeLayout(false);
 

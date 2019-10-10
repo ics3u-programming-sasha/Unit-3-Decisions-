@@ -8,3 +8,13 @@ N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 3 (Decisions)\P
 N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 3 (Decisions)\PerSquaresSasha\PerSquaresSasha\obj\Debug\PerSquaresSasha.csproj.CoreCompileInputs.cache
 N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 3 (Decisions)\PerSquaresSasha\PerSquaresSasha\obj\Debug\PerSquaresSasha.exe
 N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 3 (Decisions)\PerSquaresSasha\PerSquaresSasha\obj\Debug\PerSquaresSasha.pdb
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\PerSquaresSasha\PerSquaresSasha\bin\Debug\PerSquaresSasha.exe.config
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\PerSquaresSasha\PerSquaresSasha\bin\Debug\PerSquaresSasha.exe
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\PerSquaresSasha\PerSquaresSasha\bin\Debug\PerSquaresSasha.pdb
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\PerSquaresSasha\PerSquaresSasha\obj\Debug\PerSquaresSasha.csprojAssemblyReference.cache
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\PerSquaresSasha\PerSquaresSasha\obj\Debug\PerSquaresSasha.frmPerSquares.resources
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\PerSquaresSasha\PerSquaresSasha\obj\Debug\PerSquaresSasha.Properties.Resources.resources
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\PerSquaresSasha\PerSquaresSasha\obj\Debug\PerSquaresSasha.csproj.GenerateResource.cache
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\PerSquaresSasha\PerSquaresSasha\obj\Debug\PerSquaresSasha.csproj.CoreCompileInputs.cache
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\PerSquaresSasha\PerSquaresSasha\obj\Debug\PerSquaresSasha.exe
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\PerSquaresSasha\PerSquaresSasha\obj\Debug\PerSquaresSasha.pdb
