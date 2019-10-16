@@ -34,15 +34,13 @@ namespace GuessNumberSasha
 
         private void BtnCheck_Click(object sender, EventArgs e)
         {
-            //declare contstants
+            //declare constants and variables
             const int MIN_NUM = 1;
             const int MAX_NUM = 10;
-
-            //declare local variables
             int guess, random;
+            Random rnd = new Random();
 
             // generate a random number between the minimum and maximum number
-            Random rnd = new Random();
             random = rnd.Next(MIN_NUM, MAX_NUM+1);
 
             // convert the string from the text box into an integer
