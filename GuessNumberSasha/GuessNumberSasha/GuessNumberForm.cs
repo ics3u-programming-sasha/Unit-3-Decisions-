@@ -43,7 +43,7 @@ namespace GuessNumberSasha
 
             // generate a random number between the minimum and maximum number
             Random rnd = new Random();
-            random = rnd.Next(MIN_NUM, MAX_NUM);
+            random = rnd.Next(MIN_NUM, MAX_NUM+1);
 
             // convert the string from the text box into an integer
             guess = int.Parse(txtGuess.Text);
