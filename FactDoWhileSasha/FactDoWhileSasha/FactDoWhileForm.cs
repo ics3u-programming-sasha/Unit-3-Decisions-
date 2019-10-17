@@ -27,25 +27,32 @@ namespace FactDoWhileSasha
         private void BtnCalculate_Click(object sender, EventArgs e)
         {
             // declare local variables
-            double fact = 1;
-            double factTotal = 1;
-            double uValue; 
+            double factorialAnswer = 1;
+            double factorialNumber;
+            int factorialCounter = 1;
+
+            // clear the items from the listbox
+            this.lstFactorialNumbers.Items.Clear();
 
             // convert the string from the text box to a double
-            uValue = double.Parse(txtValue.Text);
+            factorialNumber = double.Parse(txtValue.Text);
 
-            // perform the factorial calculation until the factorial value equals the number the user entered
+            // perform the factorial calculation until the factorial counter equals the number the user entered
             do
             {
-                // multiply the total by the factorial variable 
-                factTotal = factTotal * fact;
-                // increase the factoriale variable by 1 each time 
-                fact = fact + 1;
+                // multiply the factorial answer by the factorial counter
+                factorialAnswer = factorialAnswer * factorialCounter;
 
-            } while (fact <= uValue);
+                // list the counter number in the listbox for the user to see
+                this.lstFactorialNumbers.Items.Add(factorialCounter);
 
-            // display the user's value with a factorial sign and the total with its respective answer 
-            this.lblAnswer.Text = this.txtValue.Text + "! = " + Convert.ToString(factTotal); 
+                // increase the factorial counter by 1 each time 
+                factorialCounter = factorialCounter + 1;
+
+            } while (factorialCounter <= factorialNumber);
+
+            // display the factorial number with a factorial sign equal to the factorial answer
+            this.lblAnswer.Text = this.txtValue.Text + "! = " + Convert.ToString(factorialAnswer); 
         }
     }
 }
