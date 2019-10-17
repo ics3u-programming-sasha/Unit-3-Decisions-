@@ -1,0 +1,10 @@
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 3 (Decisions)\FactWithForLoopSasha\FactWithForLoopSasha\bin\Debug\FactWithForLoopSasha.exe.config
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 3 (Decisions)\FactWithForLoopSasha\FactWithForLoopSasha\bin\Debug\FactWithForLoopSasha.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 3 (Decisions)\FactWithForLoopSasha\FactWithForLoopSasha\bin\Debug\FactWithForLoopSasha.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 3 (Decisions)\FactWithForLoopSasha\FactWithForLoopSasha\obj\Debug\FactWithForLoopSasha.csprojAssemblyReference.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 3 (Decisions)\FactWithForLoopSasha\FactWithForLoopSasha\obj\Debug\FactWithForLoopSasha.frmFactWithForLoop.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 3 (Decisions)\FactWithForLoopSasha\FactWithForLoopSasha\obj\Debug\FactWithForLoopSasha.Properties.Resources.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 3 (Decisions)\FactWithForLoopSasha\FactWithForLoopSasha\obj\Debug\FactWithForLoopSasha.csproj.GenerateResource.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 3 (Decisions)\FactWithForLoopSasha\FactWithForLoopSasha\obj\Debug\FactWithForLoopSasha.csproj.CoreCompileInputs.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 3 (Decisions)\FactWithForLoopSasha\FactWithForLoopSasha\obj\Debug\FactWithForLoopSasha.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 3 (Decisions)\FactWithForLoopSasha\FactWithForLoopSasha\obj\Debug\FactWithForLoopSasha.pdb
