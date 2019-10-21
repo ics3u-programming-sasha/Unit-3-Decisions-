@@ -1,0 +1,10 @@
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 3 (Decisions)\UnicodeSasha\UnicodeSasha\bin\Debug\UnicodeSasha.exe.config
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 3 (Decisions)\UnicodeSasha\UnicodeSasha\bin\Debug\UnicodeSasha.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 3 (Decisions)\UnicodeSasha\UnicodeSasha\bin\Debug\UnicodeSasha.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 3 (Decisions)\UnicodeSasha\UnicodeSasha\obj\Debug\UnicodeSasha.csprojAssemblyReference.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 3 (Decisions)\UnicodeSasha\UnicodeSasha\obj\Debug\UnicodeSasha.frmUnicode.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 3 (Decisions)\UnicodeSasha\UnicodeSasha\obj\Debug\UnicodeSasha.Properties.Resources.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 3 (Decisions)\UnicodeSasha\UnicodeSasha\obj\Debug\UnicodeSasha.csproj.GenerateResource.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 3 (Decisions)\UnicodeSasha\UnicodeSasha\obj\Debug\UnicodeSasha.csproj.CoreCompileInputs.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 3 (Decisions)\UnicodeSasha\UnicodeSasha\obj\Debug\UnicodeSasha.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 3 (Decisions)\UnicodeSasha\UnicodeSasha\obj\Debug\UnicodeSasha.pdb
