@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlObjectsSasha", "ControlObjectsSasha\ControlObjectsSasha.csproj", "{9DA0F89B-41CE-4308-8CBB-5459885D3BEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DA0F89B-41CE-4308-8CBB-5459885D3BEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DA0F89B-41CE-4308-8CBB-5459885D3BEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DA0F89B-41CE-4308-8CBB-5459885D3BEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DA0F89B-41CE-4308-8CBB-5459885D3BEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55DAF831-6C34-418A-8122-F0898D73C7C0}
+	EndGlobalSection
+EndGlobal
