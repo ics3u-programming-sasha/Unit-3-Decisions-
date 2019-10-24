@@ -1,0 +1,10 @@
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\NestedLoopsSasha\NestedLoopsSasha\bin\Debug\NestedLoopsSasha.exe.config
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\NestedLoopsSasha\NestedLoopsSasha\bin\Debug\NestedLoopsSasha.exe
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\NestedLoopsSasha\NestedLoopsSasha\bin\Debug\NestedLoopsSasha.pdb
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\NestedLoopsSasha\NestedLoopsSasha\obj\Debug\NestedLoopsSasha.csprojAssemblyReference.cache
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\NestedLoopsSasha\NestedLoopsSasha\obj\Debug\NestedLoopsSasha.frmNestedLoops.resources
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\NestedLoopsSasha\NestedLoopsSasha\obj\Debug\NestedLoopsSasha.Properties.Resources.resources
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\NestedLoopsSasha\NestedLoopsSasha\obj\Debug\NestedLoopsSasha.csproj.GenerateResource.cache
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\NestedLoopsSasha\NestedLoopsSasha\obj\Debug\NestedLoopsSasha.csproj.CoreCompileInputs.cache
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\NestedLoopsSasha\NestedLoopsSasha\obj\Debug\NestedLoopsSasha.exe
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\NestedLoopsSasha\NestedLoopsSasha\obj\Debug\NestedLoopsSasha.pdb
