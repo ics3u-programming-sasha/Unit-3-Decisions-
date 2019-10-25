@@ -8,3 +8,13 @@ N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 3 (Decisions)\R
 N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 3 (Decisions)\RunningAverageSasha\RunningAverageSasha\obj\Debug\RunningAverageSasha.csproj.CoreCompileInputs.cache
 N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 3 (Decisions)\RunningAverageSasha\RunningAverageSasha\obj\Debug\RunningAverageSasha.exe
 N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 3 (Decisions)\RunningAverageSasha\RunningAverageSasha\obj\Debug\RunningAverageSasha.pdb
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\RunningAverageSasha\RunningAverageSasha\bin\Debug\RunningAverageSasha.exe.config
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\RunningAverageSasha\RunningAverageSasha\bin\Debug\RunningAverageSasha.exe
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\RunningAverageSasha\RunningAverageSasha\bin\Debug\RunningAverageSasha.pdb
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\RunningAverageSasha\RunningAverageSasha\obj\Debug\RunningAverageSasha.csprojAssemblyReference.cache
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\RunningAverageSasha\RunningAverageSasha\obj\Debug\RunningAverageSasha.Properties.Resources.resources
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\RunningAverageSasha\RunningAverageSasha\obj\Debug\RunningAverageSasha.frmRunningAverage.resources
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\RunningAverageSasha\RunningAverageSasha\obj\Debug\RunningAverageSasha.csproj.GenerateResource.cache
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\RunningAverageSasha\RunningAverageSasha\obj\Debug\RunningAverageSasha.csproj.CoreCompileInputs.cache
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\RunningAverageSasha\RunningAverageSasha\obj\Debug\RunningAverageSasha.exe
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\RunningAverageSasha\RunningAverageSasha\obj\Debug\RunningAverageSasha.pdb

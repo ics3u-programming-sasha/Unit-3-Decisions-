@@ -38,16 +38,16 @@
             // lblEnter
             // 
             this.lblEnter.AutoSize = true;
-            this.lblEnter.Font = new System.Drawing.Font("Adobe Devanagari", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblEnter.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblEnter.Location = new System.Drawing.Point(125, 101);
             this.lblEnter.Name = "lblEnter";
-            this.lblEnter.Size = new System.Drawing.Size(250, 28);
+            this.lblEnter.Size = new System.Drawing.Size(326, 25);
             this.lblEnter.TabIndex = 0;
             this.lblEnter.Text = "Enter a number from 0 to 100:";
             // 
             // txtNumber
             // 
-            this.txtNumber.Location = new System.Drawing.Point(480, 106);
+            this.txtNumber.Location = new System.Drawing.Point(518, 106);
             this.txtNumber.Name = "txtNumber";
             this.txtNumber.Size = new System.Drawing.Size(100, 20);
             this.txtNumber.TabIndex = 1;
@@ -55,17 +55,17 @@
             // lblExit
             // 
             this.lblExit.AutoSize = true;
-            this.lblExit.Font = new System.Drawing.Font("Adobe Devanagari", 14.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblExit.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblExit.Location = new System.Drawing.Point(125, 129);
             this.lblExit.Name = "lblExit";
-            this.lblExit.Size = new System.Drawing.Size(133, 26);
+            this.lblExit.Size = new System.Drawing.Size(147, 24);
             this.lblExit.TabIndex = 2;
             this.lblExit.Text = "(Enter -1 to exit.)";
             // 
             // btnCalculate
             // 
             this.btnCalculate.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnCalculate.Location = new System.Drawing.Point(277, 205);
+            this.btnCalculate.Location = new System.Drawing.Point(293, 204);
             this.btnCalculate.Name = "btnCalculate";
             this.btnCalculate.Size = new System.Drawing.Size(179, 47);
             this.btnCalculate.TabIndex = 3;
@@ -77,11 +77,10 @@
             // 
             this.lblAverage.AutoSize = true;
             this.lblAverage.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblAverage.Location = new System.Drawing.Point(223, 347);
+            this.lblAverage.Location = new System.Drawing.Point(248, 346);
             this.lblAverage.Name = "lblAverage";
-            this.lblAverage.Size = new System.Drawing.Size(24, 25);
+            this.lblAverage.Size = new System.Drawing.Size(0, 25);
             this.lblAverage.TabIndex = 4;
-            this.lblAverage.Text = "?";
             // 
             // frmRunningAverage
             // 
