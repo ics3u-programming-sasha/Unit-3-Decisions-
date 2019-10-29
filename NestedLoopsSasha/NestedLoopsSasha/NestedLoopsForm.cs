@@ -38,16 +38,16 @@ namespace NestedLoopsSasha
             for (letterVal = 65; letterVal <= 90; letterVal++)
             {
                 // convert the letterVal value into the letter that it represents
-                lowerCase = Char.ConvertFromUtf32(letterVal);
+                upperCase = Char.ConvertFromUtf32(letterVal);
 
                 // perform this loop until the letterVal equals to 122
                 for (lowerLetterVal = 97; lowerLetterVal <= 122; lowerLetterVal++)
                 {
                     // convert the lowerLetterVal value into the letter that it represents
-                    upperCase =  Char.ConvertFromUtf32(lowerLetterVal);
+                    lowerCase =  Char.ConvertFromUtf32(lowerLetterVal);
 
                     // display each upper case letter and lower case letter in the list box
-                    this.lstLetters.Items.Add(lowerCase + " -> " + upperCase);
+                    this.lstLetters.Items.Add(upperCase + " -> " + lowerCase);
                 }
             }
         }
