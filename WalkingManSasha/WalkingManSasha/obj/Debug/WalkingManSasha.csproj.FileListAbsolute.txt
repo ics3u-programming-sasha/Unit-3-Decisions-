@@ -8,3 +8,13 @@ N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 3 (Decisions)\W
 N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 3 (Decisions)\WalkingManSasha\WalkingManSasha\bin\Debug\WalkingManSasha.pdb
 N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 3 (Decisions)\WalkingManSasha\WalkingManSasha\obj\Debug\WalkingManSasha.exe
 N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 3 (Decisions)\WalkingManSasha\WalkingManSasha\obj\Debug\WalkingManSasha.pdb
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\WalkingManSasha\WalkingManSasha\bin\Debug\WalkingManSasha.exe.config
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\WalkingManSasha\WalkingManSasha\bin\Debug\WalkingManSasha.exe
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\WalkingManSasha\WalkingManSasha\bin\Debug\WalkingManSasha.pdb
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\WalkingManSasha\WalkingManSasha\obj\Debug\WalkingManSasha.csprojAssemblyReference.cache
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\WalkingManSasha\WalkingManSasha\obj\Debug\WalkingManSasha.frmWalkingMan.resources
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\WalkingManSasha\WalkingManSasha\obj\Debug\WalkingManSasha.Properties.Resources.resources
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\WalkingManSasha\WalkingManSasha\obj\Debug\WalkingManSasha.csproj.GenerateResource.cache
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\WalkingManSasha\WalkingManSasha\obj\Debug\WalkingManSasha.csproj.CoreCompileInputs.cache
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\WalkingManSasha\WalkingManSasha\obj\Debug\WalkingManSasha.exe
+C:\Users\S\Documents\ICS3U\Unit-3-Decisions-\WalkingManSasha\WalkingManSasha\obj\Debug\WalkingManSasha.pdb

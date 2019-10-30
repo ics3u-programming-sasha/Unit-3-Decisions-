@@ -36,17 +36,17 @@
             // lblEnter
             // 
             this.lblEnter.AutoSize = true;
-            this.lblEnter.Font = new System.Drawing.Font("OpenSymbol", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblEnter.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblEnter.ForeColor = System.Drawing.Color.White;
-            this.lblEnter.Location = new System.Drawing.Point(61, 82);
+            this.lblEnter.Location = new System.Drawing.Point(67, 89);
             this.lblEnter.Name = "lblEnter";
-            this.lblEnter.Size = new System.Drawing.Size(452, 27);
+            this.lblEnter.Size = new System.Drawing.Size(410, 25);
             this.lblEnter.TabIndex = 0;
             this.lblEnter.Text = "Enter the temperature in degrees Celsius:";
             // 
             // txtCelsius
             // 
-            this.txtCelsius.Location = new System.Drawing.Point(535, 89);
+            this.txtCelsius.Location = new System.Drawing.Point(505, 95);
             this.txtCelsius.Name = "txtCelsius";
             this.txtCelsius.Size = new System.Drawing.Size(100, 20);
             this.txtCelsius.TabIndex = 1;
@@ -54,7 +54,7 @@
             // btnConvert
             // 
             this.btnConvert.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnConvert.Location = new System.Drawing.Point(296, 165);
+            this.btnConvert.Location = new System.Drawing.Point(301, 184);
             this.btnConvert.Name = "btnConvert";
             this.btnConvert.Size = new System.Drawing.Size(157, 59);
             this.btnConvert.TabIndex = 2;

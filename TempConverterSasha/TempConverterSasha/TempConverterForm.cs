@@ -28,7 +28,8 @@ namespace TempConverterSasha
         //Function: Calculatetemp
         //Input: double celsius
         //Output: void
-        //Description: This function takes the degrees Celsius passed by value and displays a message box with the conversion of Celsius to Fahrenheit
+        //Description: This function takes the degrees Celsius passed by value and displays a 
+        //message box with the conversion of Celsius to Fahrenheit.
         public void CalculateTemp(Double celsius)
         {
             // declare local variable
@@ -41,7 +42,7 @@ namespace TempConverterSasha
             fahrenheit = (double)9 / (double)5 * celsius + 32;
 
             // display a message box with the conversion of Celsius to Fahrenheit
-            MessageBox.Show(celsius + " degree Celsius = " + fahrenheit + "degrees Fahrenheit");
+            MessageBox.Show(celsius + " degrees Celsius = " + fahrenheit + " degrees Fahrenheit", "Celsius to Fahrenheit Converter");
         }
         private void BtnConvert_Click(object sender, EventArgs e)
         {
@@ -52,7 +53,7 @@ namespace TempConverterSasha
             userCelsius = Convert.ToDouble(txtCelsius.Text);
 
             // call the funtion to calculate the conversion passing the userCelsius argument by value
-            this.CalculateTemp(userCelsius); 
+            this.CalculateTemp(userCelsius);
         }
     }
 }
