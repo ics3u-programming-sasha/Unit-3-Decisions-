@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TempConverterSasha", "TempConverterSasha\TempConverterSasha.csproj", "{5F222918-E828-49AF-A18D-55E0FE642B94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F222918-E828-49AF-A18D-55E0FE642B94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F222918-E828-49AF-A18D-55E0FE642B94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F222918-E828-49AF-A18D-55E0FE642B94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F222918-E828-49AF-A18D-55E0FE642B94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0695B08C-EC59-4CF6-B88A-1FB1D329C67C}
+	EndGlobalSection
+EndGlobal
